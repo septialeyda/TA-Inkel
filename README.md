@@ -1,2 +1,2 @@
 # TA-Inkel
-Website SELARAS untuk Tugas Akhir Instrumentasi Kelautan 2021
+Website Alat C-CUMB untuk Tugas Akhir Instrumentasi Kelautan 2021
